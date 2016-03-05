@@ -23,13 +23,13 @@ Lessons
 * [10 - Lesson](lessons/10 - Lesson.ipynb)
 * [11 - Lesson](lessons/11 - Lesson.ipynb)
 
-Exercises
+Cookbook
 ---------
 
-* [01 - Exercise](lessons/01 - Exercise.ipynb)
-* [02 - Exercise](lessons/02 - Exercise.ipynb)
-* [03 - Exercise](lessons/03 - Exercise.ipynb)
-* [04 - Exercise](lessons/04 - Exercise.ipynb)
+* [01 - Exercise](lessons/Cookbook - Compute.ipynb)
+* [02 - Exercise](lessons/Cookbook - Merge.ipynb)
+* [03 - Exercise](lessons/Cookbook - Select.ipynb)
+* [04 - Exercise](lessons/Cookbook - Sort.ipynb)
 
 Cheat Sheets
 ---------
