@@ -1,4 +1,4 @@
-[Fork](https://bitbucket.org/hrojas/learn-pandas)
+[Forked](https://bitbucket.org/hrojas/learn-pandas)
 
 Place for everything Pandas.
 
@@ -6,35 +6,34 @@ How to install Pandas?
 -------
 
 * [Windows](http://www.youtube.com/watch?v=g4v9_K3Rq3Y)
-* [Linux](http://hdrojas.pythonanywhere.com/static/data/Data%20Analysis%20Kick%20Start.html)
+* [Linux](http://hdrojas.pythonanywhere.com/static/data/Data Analysis Kick Start.html)
 
 Lessons
 -------
 
-* [01 - Lesson](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/01%20-%20Lesson.ipynb)
-* [02 - Lesson](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/02%20-%20Lesson.ipynb)
-* [03 - Lesson](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/03%20-%20Lesson.ipynb)
-* [04 - Lesson](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/04%20-%20Lesson.ipynb)
-* [05 - Lesson](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/05%20-%20Lesson.ipynb)
-* [06 - Lesson](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/06%20-%20Lesson.ipynb)
-* [07 - Lesson](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/07%20-%20Lesson.ipynb)
-* [08 - Lesson](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/08%20-%20Lesson.ipynb)
-* [09 - Lesson](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/09%20-%20Lesson.ipynb)
-* [10 - Lesson](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/10%20-%20Lesson.ipynb)
-* [11 - Lesson](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/11%20-%20Lesson.ipynb)
+* [01 - Lesson](lessons/01 - Lesson.ipynb)
+* [02 - Lesson](lessons/02 - Lesson.ipynb)
+* [03 - Lesson](lessons/03 - Lesson.ipynb)
+* [04 - Lesson](lessons/04 - Lesson.ipynb)
+* [05 - Lesson](lessons/05 - Lesson.ipynb)
+* [06 - Lesson](lessons/06 - Lesson.ipynb)
+* [07 - Lesson](lessons/07 - Lesson.ipynb)
+* [08 - Lesson](lessons/08 - Lesson.ipynb)
+* [09 - Lesson](lessons/09 - Lesson.ipynb)
+* [10 - Lesson](lessons/10 - Lesson.ipynb)
+* [11 - Lesson](lessons/11 - Lesson.ipynb)
 
 Exercises
 ---------
 
-* [01 - Exercise](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/01%20-%20Exercise.ipynb)
-* [02 - Exercise](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/02%20-%20Exercise.ipynb)
-* [03 - Exercise](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/03%20-%20Exercise.ipynb)
-* [04 - Exercise](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/04%20-%20Exercise.ipynb)
+* [01 - Exercise](lessons/01 - Exercise.ipynb)
+* [02 - Exercise](lessons/02 - Exercise.ipynb)
+* [03 - Exercise](lessons/03 - Exercise.ipynb)
+* [04 - Exercise](lessons/04 - Exercise.ipynb)
 
 Cheat Sheets
 ---------
 
-* [Pandas for Excel Developers](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Pandas%20for%20Excel%20Developers.ipynb)
-* [Pandas for SQL Developers](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Pandas%20for%20SQL%20Developers.ipynb)
-* [Dates](https://squareup.com/market/david-rojas-llc/data-analysis-dates)
-* [Plotting in Pandas](https://squareup.com/market/david-rojas-llc/data-analysis-plotting-in-pandas)
+* [Pandas for Excel Developers](lessons/Pandas for Excel Developers.ipynb)
+* [Pandas for SQL Developers](lessons/Pandas for SQL Developers.ipynb)
+* [Python 101](lessons/Python_101.ipynb)
