@@ -26,10 +26,10 @@ Lessons
 Cookbook
 ---------
 
-* [01 - Exercise](lessons/Cookbook - Compute.ipynb)
-* [02 - Exercise](lessons/Cookbook - Merge.ipynb)
-* [03 - Exercise](lessons/Cookbook - Select.ipynb)
-* [04 - Exercise](lessons/Cookbook - Sort.ipynb)
+* [01 - Compute](lessons/Cookbook - Compute.ipynb)
+* [02 - Merge](lessons/Cookbook - Merge.ipynb)
+* [03 - Select](lessons/Cookbook - Select.ipynb)
+* [04 - Sort](lessons/Cookbook - Sort.ipynb)
 
 Cheat Sheets
 ---------
